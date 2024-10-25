@@ -6,10 +6,11 @@ Welcome to my GitHub profile! I’m passionate about technology, digital heritag
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on my Ph.D. in Information Technology with a focus on **Digital Heritage Preservation**.
-- 🌱 I’m developing immersive applications using **AR/VR** to promote and preserve **Indonesian cultural heritage**.
 - 👨‍🏫 I’m a lecturer in Information Systems at Universitas Pendidikan Ganesha, Bali.
-- 📊 I’m a member of the **Data Science Research Group** and organize workshops on **Generative AI for Learning**.
+- 👨‍🏫 Lecturer in Information Systems at Universitas Pendidikan Ganesha, Bali.
+- 🔍 Research Interests: Digital Heritage, AR/VR, Data Mining, and Educational Technology.
+- 💡 Founder of **Ganesha Inovasi Teknologi**, a startup focused on AR/VR application development.
+- 📊 I’m a member of the **Data Science Research Group**.
 
 ### 🎓 Educational Background
 
@@ -21,7 +22,7 @@ Welcome to my GitHub profile! I’m passionate about technology, digital heritag
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/igmdarmawiguna)
 
 ---
 
