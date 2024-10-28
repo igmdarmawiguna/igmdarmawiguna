@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Ir. I Gede Mahendra Darmawiguna, S.Kom., M.Sc.
+# Hi there! 👋 I'm Wiguna
 
 Welcome to my GitHub profile! I’m passionate about technology, digital heritage, and using immersive experiences to preserve culture. Here’s a bit more about me: 
 
